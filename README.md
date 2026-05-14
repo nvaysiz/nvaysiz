@@ -12,17 +12,28 @@
 - 🎓 Business Analytics student
 - 📊 Interested in Business Analysis, Data Analytics & Product Thinking
 - 💻 Working with SQL, Python, C#, WPF/.NET
-- 🚇 Interested in metro construction, BIM & engineering systems
 - 🎨 Love aesthetics, UI design and visual presentation
 - 🌱 Currently improving my analytics & development skills
 
+Люблю превращать сложные системы в понятные и структурированные решения ✨
+
+
+
 ---
+
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,mysql,git,github,vscode,visualstudio" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,mysql,git,github,visualstudio,pycharm,r,figma,linux,md" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Yandex_DataLens-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business_Analysis-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-0A66C2?style=for-the-badge"/>
+</p>
+
 
 ---
 
