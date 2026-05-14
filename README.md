@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm Andreea 👋</h1>
 
 <p align="center">
@@ -67,4 +67,3 @@ I like combining analytics, engineering and aesthetics into one system ✨
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvaysiz&theme=tokyonight" />
 </p>
-```
