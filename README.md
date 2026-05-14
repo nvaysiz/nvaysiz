@@ -41,13 +41,14 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://t.me/nvaysiz">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
-
+<p align = "center">
 📩 Email: andreya.oprya@bk.ru
+<p/>
 
 
 ---
