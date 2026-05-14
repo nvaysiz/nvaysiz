@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Andreea 👋</h1>
 
 <p align="center">
-  Business Analytics Student • Aspiring Business Analyst • Tech Enthusiast
+  Business Analytics Student • Aspiring Business Analyst 
 </p>
 
 ---
@@ -58,12 +58,4 @@
 INTJ personality type • structured chaos enjoyer
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvaysiz&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvaysiz&theme=tokyonight" />
-</p>
 
