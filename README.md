@@ -9,7 +9,7 @@
 
 ## ✨ About Me
 
-- 🎓 Business Analytics student
+- 🎓 Business Analytics student (РАНХиГС • направление «Бизнес-аналитика»)
 - 📊 Interested in Business Analysis, Data Analytics & Product Thinking
 - 💻 Working with SQL, Python, C#, WPF/.NET
 - 🎨 Interested in aesthetics, UI design and visual presentation
