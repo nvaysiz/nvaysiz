@@ -1,25 +1,25 @@
 
-<h1 align="center">Hi, I'm Andreea 👋</h1>
+<h1 align="center">Привет, я Андрея 👋</h1>
 
 <p align="center">
-  Business Analytics Student • Aspiring Business Analyst 
+  Студентка бизнес-аналитики 
 </p>
 
 ---
 
-## ✨ About Me
+## Обо мне
 
-- 🎓 Business Analytics student (РАНХиГС • направление «Бизнес-аналитика»)
-- 📊 Interested in Business Analysis, Data Analytics & Product Thinking
-- 💻 Working with SQL, Python, C#, WPF/.NET
-- 🎨 Interested in aesthetics, UI design and visual presentation
-- 🌱 Currently improving my analytics & development skills
+- 🎓 Студентка РАНХиГС • направление «Бизнес-аналитика»
+- 📊 Интересуюсь бизнес-анализом, аналитикой данных и продуктовым мышлением
+- 💻 Работаю с SQL, Python, C#, WPF/.NET
+- 🎨 Люблю эстетику, UI-дизайн и красивую визуальную подачу
+- 🌱 Развиваю навыки в аналитике, разработке и визуализации данных
 
 *Люблю превращать сложные системы в понятные и структурированные решения ✨*
 
 ---
 
-## 🛠 Tech Stack
+## Стек технологий
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,sqlite,git,github,visualstudio,r" />
@@ -27,35 +27,35 @@
 
 ---
 
-## 📈 Currently Learning
+## Сейчас изучаю
 
-- Business Analysis
-- SQL & Databases
-- Data Visualization
-- System Design
-- .NET / WPF Applications
+- Бизнес-анализ
+- SQL и базы данных
+- Визуализацию данных
+- Системное проектирование
+- .NET / WPF-приложения
 - Yandex DataLens
 - Power BI
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Связаться со мной
 
 <p align="center">
   <a href="https://t.me/nvaysiz">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
-<p align = "center">
-📩 Email: andreya.oprya@bk.ru
-<p/>
 
+<p align="center">
+  📩 Email: andreya.oprya@bk.ru
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Факт обо мне
 
-INTJ personality type • structured chaos enjoyer
+INTJ • люблю структурировать хаос и превращать идеи в понятные системы
 
 ---
 
